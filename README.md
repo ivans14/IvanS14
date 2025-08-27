@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Serrano</h1>
 <h3 align="center">A dedicated developer from Barcelona, Spain</h3>
 
-- 🌱 I’m currently learning **React and C++**
+- 🌱 I’m currently learning **Vue.js and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ivans14?tab=repositories](https://github.com/ivans14?tab=repositories)
 
